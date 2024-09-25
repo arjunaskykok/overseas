@@ -17,3 +17,7 @@
 ## Japan
 
 - Startup Visa: https://www.mofa.go.jp/ca/fna/page22e_000873.html
+
+## Taiwan
+
+- General: https://talent.nat.gov.tw/?lang=en
