@@ -21,3 +21,7 @@
 ## Taiwan
 
 - General: https://talent.nat.gov.tw/?lang=en
+
+## Poland
+
+- Information Technology: https://www.gov.pl/web/poland-businessharbour-en
