@@ -33,7 +33,7 @@
 
 ## United Arab Emirates (UAE)
 
-- Tech Talents:
+- Exceptional Talents:
   - https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/golden-visa
   - https://www.adro.gov.ae/Visas/Types-of-Visas/Abu-Dhabi-Golden-Visa/Brilliant-Talents
 
