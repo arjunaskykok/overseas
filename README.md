@@ -10,6 +10,10 @@
 - Startup Visa: https://mdec.my/mtep
 - A Guide for an Expat: https://www.william-russell.com/blog/expat-guide-moving-living-malaysia/
 
+## Hong Kong
+
+- Talent: https://www.hkengage.gov.hk
+
 ## Philippines
 
 - Investor Visa: https://boi.gov.ph/wp-content/uploads/2019/11/SIRV-FAQ.pdf
